@@ -1,12 +1,12 @@
-# FMCG Project - The raw data is manipulated data from a chocolate manufacturer/retailer. 
-The 1st part of the project includes: 
+# FMCG Project - The raw data is dummy data minics a chocolate manufacturer. 
+Section 1 includes: 
 - find out the cheapest supplier for each ingredient 
 - calculate the total cost of each supplier based on demand 
 - calculate the total tax of each supplier based on demand 
 - identify the cheapest supplier per recipe 
 - identify the total cost (inc. tax) to meet all demand per quarter with the fastest suppliers
 
-The 2nd part is to build a forecast ML model to predict the demand more accurately. 
+Section 2 is to build a forecast ML model to predict the demand more accurately. 
 The key process includes: 
 - exploratory data analysis
 - feature selection
