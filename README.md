@@ -14,5 +14,5 @@ The key process includes:
 - cross-validation 
 - use permutation to test the new parameter's improtance in the selected model
 - train the selected model with permutation features   
-- visualize the forecasted demand to compare with the test data
+- visualize the forecasted demand and compare with the test data
 - finalize the model features and evaluation 
