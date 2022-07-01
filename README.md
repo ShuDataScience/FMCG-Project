@@ -6,7 +6,8 @@ Section 1 includes:
 - identify the cheapest supplier per recipe 
 - identify the total cost (inc. tax) to meet all demand per quarter with the fastest suppliers
 
-Section 2 is to build a forecast ML model to predict the demand more accurately. 
+Section 2: ML -train and test forecast models. Built a forecast model with a R2 score of r2 score of 0.883 to predict the demand more accurately. 
+
 The key process includes: 
 - exploratory data analysis
 - feature selection
