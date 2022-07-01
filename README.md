@@ -1,4 +1,6 @@
-# FMCG Project - The raw data is dummy data minics a chocolate manufacturer. 
+# A chocolate manufacture cost evaluation and demand forecast capstone 
+
+The raw data is dummy data minics a chocolate manufacturer. 
 Section 1 includes: 
 - find out the cheapest supplier for each ingredient 
 - calculate the total cost of each supplier based on demand 
