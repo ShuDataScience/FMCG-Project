@@ -1,4 +1,4 @@
-# A chocolate manufacture cost evaluation and demand forecast capstone 
+# A chocolate manufacturer cost evaluation and demand forecast capstone 
 
 The raw data is dummy data minics a chocolate manufacturer provded by Kikodo. 
 
@@ -14,9 +14,9 @@ Section 2: ML -train and test forecast models. Built a forecast model with a R2 
 The key process includes: 
 - exploratory data analysis
 - feature selection
-- model selection and performance metrics comparision
+- model selection and performance metrics comparison
 - cross-validation 
-- use permutation to test the new parameter's improtance in the selected model
+- use permutation to test the new parameter's importance in the selected model
 - train the selected model with permutation features   
 - visualize the forecasted demand and compare with the test data
 - finalize the model features and evaluation 
