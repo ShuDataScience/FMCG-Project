@@ -1,6 +1,6 @@
 # A chocolate manufacturer cost evaluation and demand forecast capstone 
 
-The raw data is dummy data minics a chocolate manufacturer provded by Kikodo. 
+The raw data is manipulated data minics a chocolate manufacturer, provded by Kikodo https://www.kikodo.io/. 
 
 Section 1 includes: 
 - find out the cheapest supplier for each ingredient 
@@ -14,7 +14,7 @@ Section 2: ML -train and test forecast models. Built a forecast model with a R2 
 The key process includes: 
 - exploratory data analysis
 - feature selection
-- model selection and performance metrics comparison
+- model selection and performance metrics comparison 
 - cross-validation 
 - use permutation to test the new parameter's importance in the selected model
 - train the selected model with permutation features   
