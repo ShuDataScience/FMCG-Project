@@ -9,14 +9,14 @@ Section 1 includes:
 - identify the cheapest supplier per recipe 
 - identify the total cost (inc. tax) to meet all demand per quarter with the fastest suppliers
 
-Section 2: Machine Learning -train and test forecast models (Linear Regression, DTR, KNN and Gradient Descent). Built a forecast model with a R2 score of r2 score of 0.883 to predict the demand more accurately. 
+Section 2: Machine Learning -train and test forecast models (Linear Regression, DTR, KNN and Gradient Descent Regression). Built a forecast model with a R2 score of r2 score of 0.883 to predict the demand more accurately. 
 
 The key steps include: 
 - exploratory data analysis
 - feature selection
 - model selection and performance metrics comparison 
 - cross-validation 
-- use polynomial features to test the new parameter's importance in the selected model
+- create and select polynomial features to test the new parameter's importance in the selected model 
 - train the selected model with permutation features   
 - visualize the forecasted demand and compare with the test data
 - finalize the model features and evaluation 
