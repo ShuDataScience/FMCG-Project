@@ -13,6 +13,7 @@ Section 2: Machine Learning -train and test forecast models (Linear Regression, 
 
 The key steps include: 
 - exploratory data analysis
+- data preprocessing
 - create features with assumptions
 - explore the features' correlation with the model(s)
 - model selection and performance metrics comparison 
@@ -20,4 +21,4 @@ The key steps include:
 - create and select polynomial features to test the new parameter's importance in the selected model 
 - train the selected model with permutation features   
 - evaluate the model by visualizing the forecasted demand with comparision to the test data
-- finalize the model features and evaluation 
+- finalize the model features and evaluation
